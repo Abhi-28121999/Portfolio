@@ -28,6 +28,13 @@ Welcome to my Power BI portfolio. Here are some of the dashboards I've built to 
 
 ---
 
+### 3. Superstore Dashboard
+- **Description:** Designed an interactive Power BI dashboard showcasing sales performance using time intelligence (YTD, MTD, QTD), KPIs, multiple visuals (bar charts, pie charts, line graphs, maps), navigation buttons, bookmarks, slicers, and shape decorations for an enhanced user experience.
+- **Tools Used:** Power BI
+- **Preview:** *(Add screenshot link if available)*
+
+---
+
 ## 📥 Contact
 - **LinkedIn:** [www.linkedin.com/in/abhinav-vyas1999]
 - **Email:** [Abhinavvyas021999@gmail.com]
