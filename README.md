@@ -35,6 +35,13 @@ Welcome to my Power BI portfolio. Here are some of the dashboards I've built to 
 
 ---
 
+### 5. Amazon Dashboard
+- **Description:** Designed an interactive Amazon Sales Dashboard using Power BI, incorporating slicers, visuals, images, cards, and tooltips to provide dynamic insights. Utilized advanced Power BI features to enhance data storytelling and user experience, enabling efficient performance tracking and data-driven decision-making.
+- **Tools Used:** Power BI
+- **Preview:** *(Add screenshot link if available)*
+
+---
+
 ## 📥 Contact
 - **LinkedIn:** [www.linkedin.com/in/abhinav-vyas1999]
 - **Email:** [Abhinavvyas021999@gmail.com]
