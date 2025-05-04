@@ -42,6 +42,13 @@ Welcome to my Power BI portfolio. Here are some of the dashboards I've built to 
 
 ---
 
+### 6. Adidas Dashboard
+- **Description:** - An interactive dashboard built in Power BI to analyze Adidas’s sales and profit performance. Features advanced DAX measures (YOY%, LY Sales, Avg Sales/Profit, Margin %, YTD/QTD/MTD), dynamic visuals (Treemap, Clustered Charts, Donut, Area), and a clean black-and-white UI. Designed for clear storytelling and actionable insights.
+- **Tools Used:** Power BI
+- **Preview:** *(Add screenshot link if available)*
+
+---
+
 ## 📥 Contact
 - **LinkedIn:** [www.linkedin.com/in/abhinav-vyas1999]
 - **Email:** [Abhinavvyas021999@gmail.com]
