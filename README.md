@@ -43,7 +43,15 @@ Welcome to my Power BI portfolio. Here are some of the dashboards I've built to 
 ---
 
 ### 6. Adidas Dashboard
-- **Description:** - An interactive dashboard built in Power BI to analyze Adidas’s sales and profit performance. Features advanced DAX measures (YOY%, LY Sales, Avg Sales/Profit, Margin %, YTD/QTD/MTD), dynamic visuals (Treemap, Clustered Charts, Donut, Area), and a clean black-and-white UI. Designed for clear storytelling and actionable insights.
+- **Description:** An interactive dashboard built in Power BI to analyze Adidas’s sales and profit performance. Features advanced DAX measures (YOY%, LY Sales, Avg Sales/Profit, Margin %, YTD/QTD/MTD), dynamic visuals (Treemap, Clustered Charts, Donut, Area), and a clean black-and-white UI. Designed for clear storytelling and actionable insights.
+- **Tools Used:** Power BI
+- **Preview:** *(Add screenshot link if available)*
+
+---
+
+### 7. Blinkit Dashboard
+- **Description:** Blinkit Interactive Dashboard | Power BI Project
+I'm excited to share my latest project—an interactive Power BI dashboard created using a clean and structured dataset for Blinkit. The dashboard was designed with a bold Yellow and Black theme to enhance visual clarity and engagement.
 - **Tools Used:** Power BI
 - **Preview:** *(Add screenshot link if available)*
 
