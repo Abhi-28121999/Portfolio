@@ -57,6 +57,22 @@ I'm excited to share my latest project—an interactive Power BI dashboard creat
 
 ---
 
+### 8. Netflix Dashboard
+- **Description:** Netflix Dashboard – Interactive Data Visualization (Black & Red Theme)
+This interactive Power BI dashboard provides a comprehensive analysis of Netflix content using a sleek black and red theme that reflects the brand’s signature style.
+- **Tools Used:** Power BI
+- **Preview:** *(Add screenshot link if available)*
+
+---
+
+### 9. Amazon Prime Dashboard
+- **Description:** Amazon Prime Dashboard – Interactive Data Visualization (Dark Blue & Light Blue Theme)
+This interactive Power BI dashboard offers a detailed exploration of Amazon Prime Video content, styled with a modern dark blue and light blue theme for a clean, professional look.
+- **Tools Used:** Power BI
+- **Preview:** *(Add screenshot link if available)*
+
+---
+
 ## 📥 Contact
 - **LinkedIn:** [www.linkedin.com/in/abhinav-vyas1999]
 - **Email:** [Abhinavvyas021999@gmail.com]
